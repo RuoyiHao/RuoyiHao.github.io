@@ -22,10 +22,10 @@ I received my B.E. degree in Process Equipment and Control Engineering from [the
 My research interests include medical robot systems, robot perception, and autonomous control.
 
 # 🔥 News
-- *12/2023*: Our Project "Minimally Contiguous Intubation and Tracheostomy for Severe COVID-19 Patients with Teleoperated Endotracheal cum Percutaneous Dual Robotic Modules and Multi-Modality Guidance" was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
+- *12/2023*: Our Project was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 - *09/2023*: A paper accepted by IEEE TIE.
 - *07/2023*: Pass PhD thesis proposal defense.
-- *05/2023*: Our Project “A Vision-Guided Fiberoptic Nasotracheal Intubation Robot” won the Silver Award in The International Exhibition of Inventions Geneva 2023.
+- *05/2023*: Our Project won the Silver Award in The International Exhibition of Inventions Geneva 2023.
 - *05/2023*: Awarded the Solomon Systech Scholarship.
 - *06/2022*: A paper accepted by IROS 2022.
 - *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
@@ -72,8 +72,8 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 </div>
 </div>
 
-# 💻 Project
-Nasotracheal Intubation Robot (Hong Kong RGC CRF)
+# 💻 Selected Project
+*2022 - now*: Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 
 <img src='images/ieig.jpg' alt="sym" width="20%"> <img src='images/ieig pre.jpg' alt="sym" width="35.5%">  <img src='images/ieig_award.jpg' alt="sym" width="20%">  <img src='images/ieig_letter.jpg' alt="sym" width="22.5%">
 
@@ -91,11 +91,7 @@ Then, this project  was reported by “身體最誠實” with an interview talk
 <img src='images/crf sym.jpg' alt="sym" width="50%">
 
 
-Our project, along with the work of other collaborators, was presented at the Collaborative Research Fund cum Research Impact Fund Symposium 2023.
-
-<!--
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
+Our CRF project "Minimally Contiguous Intubation and Tracheostomy for Severe COVID-19 Patients with Teleoperated Endotracheal cum Percutaneous Dual Robotic Modules and Multi-Modality Guidance" was presented at the Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 
 # 📖 Educations
 - *08/2021 - now*, Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
