@@ -102,14 +102,19 @@ Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 📖 Educations
-- *2021.08 - now*, Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
-- *2016.09 - 2020.06*, B.Eng. in Process Equipment and Control Engineering, East China University of Science and Technology, Shanghai, China
+- *08/2021 - now*, Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
+- *09/2016 - 06/2020*, B.Eng. in Process Equipment and Control Engineering, East China University of Science and Technology, Shanghai, China
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *05/2023* Solomon Systech Scholarship 
+- *04/2023* Silver Award in 2023 Inventions Geneva
+- *11/2021* Silver Award in EMEDIC GLOBAL 2021 
+- *11/2021* Best presentation in EMEDIC GLOBAL 2021
+- *05/2020* Excellent Graduate of Shanghai
+- *12/2019 - 12/2017* National Scholarship of China
+- *11/2019* Baosteel Outstanding Student Special Prize
 
 # 💬 Teaching Assistant
 
-- ENGG 2760C: Probability for Engineers, 2021 Fall, 2022 Fall, 2023 Fall
+- ENGG 2760: Probability for Engineers, 2021 Fall, 2022 Fall, 2023 Fall
 - ELEG 3103:  Robotic Perception and Intelligence, 2022 Spring, 2023 Spring, 2024 Spring
