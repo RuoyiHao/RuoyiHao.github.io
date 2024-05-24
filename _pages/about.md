@@ -32,12 +32,16 @@ My research interests include medical robot systems, robot perception, and auton
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/TII.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modeling and compensation of stiffness-dependent hysteresis for stiffness-tunable tendon-sheath mechanism in flexible endoscopic robots](https://ieeexplore.ieee.org/abstract/document/10269759)
 
 H. Gao, **R. Hao**, X. Yang, C. Li, Z. Zhang, X. Zuo, Y. Li, and H. Ren
+
+[**Video**](https://ieeexplore.ieee.org/abstract/document/10269759/media#media)
+
+
 
 
 
