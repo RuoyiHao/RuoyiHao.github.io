@@ -82,11 +82,14 @@ Our Project “A Vision-Guided Fiberoptic Nasotracheal Intubation Robot” won t
 
 <img src='images/tvb.jpg' alt="sym" width="50%">
 
+
 Then, this project  was reported by “身體最誠實” with an interview talk given by Prof Hongliang Ren, which was aired on TVB Jade (12 July 2023).
 
 [video](https://youtu.be/pWycTaMpvME).
 
+
 <img src='images/crf sym.jpg' alt="sym" width="50%">
+
 
 Our project, along with the work of other collaborators, was presented at the Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 
