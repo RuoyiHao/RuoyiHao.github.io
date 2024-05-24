@@ -21,7 +21,6 @@ I received my B.E. degree in Process Equipment and Control Engineering from the 
 
 My research interests include medical robot systems, robot perception, and autonomous control.
 
-
 # 🔥 News
 - *12/2023*: Our Project "Minimally Contiguous Intubation and Tracheostomy for Severe COVID-19 Patients with Teleoperated Endotracheal cum Percutaneous Dual Robotic Modules and Multi-Modality Guidance" was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 - *09/2023*: A paper accepted by IEEE TIE.
@@ -31,11 +30,16 @@ My research interests include medical robot systems, robot perception, and auton
 - *06/2022*: A paper accepted by IROS 2022.
 - *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
 
-
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TII</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[Modeling and compensation of stiffness-dependent hysteresis for stiffness-tunable tendon-sheath mechanism in flexible endoscopic robots](https://ieeexplore.ieee.org/abstract/document/10269759)
+
+H. Gao, **R. Hao**, X. Yang, C. Li, Z. Zhang, X. Zuo, Y. Li, and H. Ren
+
+
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
