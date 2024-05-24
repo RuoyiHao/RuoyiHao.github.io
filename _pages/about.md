@@ -79,7 +79,7 @@ Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 </div>
 </div>
   
-<img src='images/ieig.png' alt="sym" width="50%"><img src='images/ieig pre.png' alt="sym" width="50%"><img src='images/ieig award.png' alt="sym" width="50%">
+<img src='images/ieig.jpg' alt="sym" width="50%"><img src='images/ieig pre.jpg' alt="sym" width="50%"><img src='images/ieig award.jpg' alt="sym" width="50%">
 
 </div>
 </div>
