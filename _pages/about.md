@@ -78,8 +78,13 @@ Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 <img src='images/ieig.jpg' alt="sym" width="20%"> <img src='images/ieig pre.jpg' alt="sym" width="35.5%">  <img src='images/ieig_award.jpg' alt="sym" width="19%">  <img src='images/ieig_letter.jpg' alt="sym" width="21%">
 
 
-Our Project “A Vision-Guided Fiberoptic Nasotracheal Intubation Robot” won the Silver Award in The International Exhibition of Inventions Geneva 2023. And we got a letter of congratulations from the Vice-Chancellor of CUHK.
+Our Project “A Vision-Guided Fiberoptic Nasotracheal Intubation Robot” won the Silver Award at The International Exhibition of Inventions Geneva 2023. And we received a letter of congratulations from the Vice-Chancellor of CUHK.
 
+<img src='images/tvb.jpg' alt="sym" width="50%">
+Then, this project  was reported by “身體最誠實” with an interview talk given by Prof Hongliang Ren, which was aired on [TVB Jade (12 July 2023)](https://youtu.be/pWycTaMpvME).
+
+<img src='images/crf sym.jpg' alt="sym" width="50%">
+Our project, along with the work of other collaborators, was presented at the Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 
 <!--
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
