@@ -41,8 +41,25 @@ H. Gao, **R. Hao**, X. Yang, C. Li, Z. Zhang, X. Zuo, Y. Li, and H. Ren
 
 [**Video**](https://ieeexplore.ieee.org/abstract/document/10269759/media#media)
 
+</div>
+</div>
 
 
+
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/IROS2022.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GESRsim: gastrointestinal endoscopic surgical robot simulator](https://ieeexplore.ieee.org/document/9982138)
+
+H. Gao, **R. Hao**, X. Yang, C. Li, Z. Zhang, X. Zuo, Y. Li, and H. Ren
+
+[**Video**](https://ieeexplore.ieee.org/abstract/document/10269759/media#media)
+
+</div>
+</div>
 
 <!--
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
