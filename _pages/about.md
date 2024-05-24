@@ -75,7 +75,7 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 # 💻 Project: NIR
 Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 
-<img src='images/ieig.jpg' alt="sym" width="20%"> <img src='images/ieig pre.jpg' alt="sym" width="35.5%">  <img src='images/ieig_award.jpg' alt="sym" width="19%">  <img src='images/ieig_letter.jpg' alt="sym" width="21%">
+<img src='images/ieig.jpg' alt="sym" width="20%"> <img src='images/ieig pre.jpg' alt="sym" width="35.5%">  <img src='images/ieig_award.jpg' alt="sym" width="20%">  <img src='images/ieig_letter.jpg' alt="sym" width="22.5%">
 
 
 Our Project “A Vision-Guided Fiberoptic Nasotracheal Intubation Robot” won the Silver Award at The International Exhibition of Inventions Geneva 2023. And we received a letter of congratulations from the Vice-Chancellor of CUHK.
