@@ -44,7 +44,7 @@ H. Gao, **R. Hao**, X. Yang, C. Li, Z. Zhang, X. Zuo, Y. Li, and H. Ren
 
 
 
-
+<!--
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
@@ -55,6 +55,7 @@ H. Gao, **R. Hao**, X. Yang, C. Li, Z. Zhang, X. Zuo, Y. Li, and H. Ren
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
