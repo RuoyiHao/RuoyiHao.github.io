@@ -72,7 +72,7 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 </div>
 </div>
 
-# 💻 Project: NIR
+# 💻 Project
 Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 
 <img src='images/ieig.jpg' alt="sym" width="20%"> <img src='images/ieig pre.jpg' alt="sym" width="35.5%">  <img src='images/ieig_award.jpg' alt="sym" width="20%">  <img src='images/ieig_letter.jpg' alt="sym" width="22.5%">
