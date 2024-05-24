@@ -94,7 +94,9 @@ Nasotracheal Intubation Robot (Hong Kong RGC CRF)
   
 <img src='images/ieig.png' alt="sym" width="50%"><img src='images/ieig pre.png' alt="sym" width="50%"><img src='images/ieig award.png' alt="sym" width="50%">
 
-  
+</div>
+</div>
+
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 📖 Educations
@@ -107,9 +109,9 @@ Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 - *11/2021* Silver Award in EMEDIC GLOBAL 2021 
 - *11/2021* Best presentation in EMEDIC GLOBAL 2021
 - *05/2020* Excellent Graduate of Shanghai
-- *12/2019 - 12/2017* National Scholarship of China
 - *11/2019* Baosteel Outstanding Student Special Prize
-
+- *12/2017 - 12/2019* National Scholarship of China
+- 
 # 💬 Teaching Assistant
 
 - ENGG 2760: Probability for Engineers, 2021 Fall, 2022 Fall, 2023 Fall
