@@ -50,6 +50,7 @@ Huxin Gao, **Ruoyi Hao**, Xiaoxiao Yang, Changsheng Li, Zedong Zhang, Xiuli Zuo,
 <div class='paper-box-text' markdown="1">
   
 A vision-guided fiberoptic nasotracheal intubation robot. 
+
 U.S. Provisional Patent application No. 63,303,270. Washington, DC: U.S. Patent and Trademark Office, 2022
 
 Hongliang Ren, **Ruoyi Hao**
