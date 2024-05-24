@@ -37,26 +37,32 @@ My research interests include medical robot systems, robot perception, and auton
 
 [Modeling and compensation of stiffness-dependent hysteresis for stiffness-tunable tendon-sheath mechanism in flexible endoscopic robots](https://ieeexplore.ieee.org/abstract/document/10269759)
 
+IEEE Transactions on Industrial Electronics (TIE), 2023
+
 Huxin Gao, **Ruoyi Hao**, Xiaoxiao Yang, Changsheng Li, Zedong Zhang, Xiuli Zuo, Yanqing Li, and Hongliang Ren
 
 [**Video**](https://ieeexplore.ieee.org/abstract/document/10269759/media#media)
 
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">US Patent 2022</div><img src='images/PATENT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 A vision-guided fiberoptic nasotracheal intubation robot. 
-U.S. Provisional Patent application No. 63,303,270. Washington, DC: U.S. Patent and Trademark Office. (2022)
+U.S. Provisional Patent application No. 63,303,270. Washington, DC: U.S. Patent and Trademark Office, 2022
 
 Hongliang Ren, **Ruoyi Hao**
 
 </div>
 </div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/IROS2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GESRsim: gastrointestinal endoscopic surgical robot simulator](https://ieeexplore.ieee.org/document/9982138)
+
+2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022
 
 Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **Ruoyi Hao**, Xiuli Zuo, Yanqing Li and Hongliang Ren
 
