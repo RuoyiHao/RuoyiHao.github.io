@@ -30,10 +30,7 @@ My research interests include medical robot systems, robot perception, and auton
 - *05/2023*: Awarded the Solomon Systech Scholarship.
 - *06/2022*: A paper accepted by IROS 2022.
 - *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
-<!--
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+
 
 # 📝 Publications 
 
