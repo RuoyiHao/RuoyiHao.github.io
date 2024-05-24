@@ -85,16 +85,29 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 
-# 💻 selected Project
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Project: NIR
+Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/IROS2022.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2022</div><img src='images/IROS2022.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<img src='images/IROS2022.png' alt="sym" width="50%"><img src='images/IROS2022.png' alt="sym" width="50%">
+
+  
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 # 📖 Educations
 - *2021.08 - now*, Ph.D. in Electronic Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China
 - *2016.09 - 2020.06*, B.Eng. in Process Equipment and Control Engineering, East China University of Science and Technology, Shanghai, China
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Teaching Assistant
 
