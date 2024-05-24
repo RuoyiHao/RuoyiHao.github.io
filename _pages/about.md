@@ -23,8 +23,15 @@ My research interests include medical robot systems, robot perception, and auton
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *12/2023*: Our Project "Minimally Contiguous Intubation and Tracheostomy for Severe COVID-19 Patients with Teleoperated Endotracheal cum Percutaneous Dual Robotic Modules and Multi-Modality Guidance" was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
+- *09/2023*: A paper accepted by IEEE TIE.
+- *07/2023*: Pass PhD thesis proposal defense.
+- *05/2023*: Our Project “A Vision-Guided Fiberoptic Nasotracheal Intubation Robot” won the Silver Award in The International Exhibition of Inventions Geneva 2023.
+- *05/2023*: Awarded the Solomon Systech Scholarship.
+- *06/2022*: A paper accepted by IROS 2022.
+- *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
 <!--
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
