@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Selected Project"
-    url: "/#-Selected-Project"
+    url: "/#-selected-project"
 
   - title: "Educations"
     url: "/#-educations"
@@ -19,6 +19,6 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Teaching Assistant"
-    url: "/#-Teaching-Assistant"
+    url: "/#-teaching-assistant"
 
 
