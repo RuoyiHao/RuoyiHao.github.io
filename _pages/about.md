@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.E. degree in [Process Equipment and Control Engineering](https://mech.ecust.edu.cn/10986/list.htm) from [the East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp), Shanghai, China, in 2020. I am currently a 3rd year Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
+I received my B.E. degree in [Process Equipment and Control Engineering](https://mech.ecust.edu.cn/10986/list.htm) from [the East China University of Science and Technology](https://www.ecust.edu.cn/en/main.psp), Shanghai, China, in 2020. I am currently a 4th year Ph.D. student at [Medical Mechatronics Lab](http://www.labren.org/mm/) of the [Department of Electronic Engineering](http://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), supervised by [Prof. Hongliang Ren](https://www.ee.cuhk.edu.hk/en-gb/people/academic-staff/professors/prof-ren-hongliang).
 
 My research interests include medical robot systems, robot perception, and autonomous control.
 
 # 🔥 News
+- *10/2024*: Submitted a paper to Scientific Data.
+- *09/2024*: Submitted three papers to ICRA 2025.
 - *12/2023*: Our Project was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 - *09/2023*: A paper accepted by IEEE TIE.
 - *07/2023*: Pass PhD thesis proposal defense.
@@ -109,4 +111,4 @@ Our CRF project "Minimally Contiguous Intubation and Tracheostomy for Severe COV
 # 💬 Teaching Assistant
 
 - ENGG 2760: Probability for Engineers, 2021 Fall, 2022 Fall, 2023 Fall
-- ELEG 3103: Robotic Perception and Intelligence, 2022 Spring, 2023 Spring, 2024 Spring
+- ELEG 3103: Robotic Perception and Intelligence, 2022 Spring, 2023 Spring, 2024 Spring, 2025 Spring
