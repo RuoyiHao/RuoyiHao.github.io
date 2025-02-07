@@ -22,9 +22,7 @@ I received my B.E. degree in [Process Equipment and Control Engineering](https:/
 My research interests include medical robot systems, robot perception, and autonomous control.
 
 # 🔥 News
-- *01/2025*: Submitted a paper to IEEE TIE.
-- *10/2024*: Submitted a paper to Scientific Data.
-- *09/2024*: Submitted three papers to ICRA 2025.
+- *01/2025*: Two papers accepted by ICRA 2025.
 - *12/2023*: Our Project was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 - *09/2023*: A paper accepted by IEEE TIE.
 - *07/2023*: Pass PhD thesis proposal defense.
