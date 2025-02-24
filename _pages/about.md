@@ -33,6 +33,18 @@ My research interests include medical robot systems, robot perception, and auton
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA2025</div><img src='images/ICRA2025.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Variable-Stiffness Nasotracheal Intubation Robot with Passive Buffering: A Modular Platform in Mannequin Studies
+
+2025 IEEE International Conference on Robotics and Automation (ICRA), 2025
+
+**Ruoyi Hao**, Jiewen Lai, Wenqi Zhong, Dihong Xie, Yu Tian, Tao Zhang, Zhang Yang, Catherine P. L. Chan, Jason Y. K. Chan, and Hongliang Ren
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/TII.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
