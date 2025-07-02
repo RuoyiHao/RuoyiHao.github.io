@@ -24,7 +24,7 @@ My research interests include medical robot systems, robot perception, and auton
 Here is my [detailed CV](images/CV_Ruoyi Hao1.pdf).
 
 # 🔥 News
-- *07/2025*: A paper accepted by IROS 2025.
+- *06/2025*: A paper accepted by IROS 2025.
 - *01/2025*: Two papers accepted by ICRA 2025.
 - *12/2023*: Our Project was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 - *09/2023*: A paper accepted by IEEE TIE.
