@@ -102,7 +102,12 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 </div>
 
 # 💻 Selected Project
-*2022 - now*: Nasotracheal Intubation Robot (Hong Kong RGC CRF)
+*2021 - now*: Nasotracheal Intubation Robot (Hong Kong RGC CRF)
+
+<img src='images/ieig.jpg' alt="sym" width="20%">
+
+Our work was presented at ICRA 2025.
+
 
 <img src='images/ieig.jpg' alt="sym" width="20%"> <img src='images/ieig pre.jpg' alt="sym" width="35.5%">  <img src='images/ieig_award.jpg' alt="sym" width="20%">  <img src='images/ieig_letter.jpg' alt="sym" width="22.5%">
 
