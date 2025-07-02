@@ -35,6 +35,7 @@ Here is my [detailed CV](images/CV_Ruoyi Hao.pdf).
 - *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
 
 # 📝 Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/IROS2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -46,6 +47,8 @@ Yu Tian†, **Ruoyi Hao†**, Yiming Huang, Dihong Xie, Catherine Po Ling Chan, 
 
 [**Video**](https://youtu.be/ZjGD1FLx57g) [**Paper**](docs/IROS25_0991_MS.pdf)
 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA2025</div><img src='images/ICRA2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -104,7 +107,7 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 # 💻 Selected Project
 *2021 - now*: Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 
-<img src='images/ieig.jpg' alt="sym" width="20%">
+<img src='images/ICRA2.jpg' alt="sym" width="20%">  <img src='images/ICRA1.jpg' alt="sym" width="20%">
 
 Our work was presented at ICRA 2025.
 
