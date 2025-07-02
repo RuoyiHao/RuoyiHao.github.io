@@ -41,7 +41,7 @@ Here is my [detailed CV](images/CV_Ruoyi Hao.pdf).
   
 Learning to Perform Low-Contact Autonomous Nasotracheal Tube Intubation by Recurrent Action-Confidence Chunking with Transformer
 
-2025 IEEE International Conference on Robotics and Automation (IROS), 2025
+2025 IEEE International Conference on Intelligent Robots and Systems (IROS), 2025
 
 Yu Tian†, **Ruoyi Hao†**, Yiming Huang, Dihong Xie, Catherine Po Ling Chan, Jason Ying Kuen Chan, and Hongliang Ren
 
