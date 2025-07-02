@@ -35,6 +35,17 @@ Here is my [detailed CV] (images/CV_Ruoyi Hao.pdf).
 - *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/ICRA2025.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Learning to Perform Low-Contact Autonomous Nasotracheal Tube Intubation by Recurrent Action-Confidence Chunking with Transformer
+
+2025 IEEE International Conference on Robotics and Automation (IROS), 2025
+
+Yu Tian†, **Ruoyi Hao†**, Yiming Huang, Dihong Xie, Catherine Po Ling Chan, Jason Ying Kuen Chan, and Hongliang Ren
+
+[**Video**](https://youtu.be/ZjGD1FLx57g) [**Papers**](docs/IROS25_0991_MS.pdf)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA2025</div><img src='images/ICRA2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -44,6 +55,8 @@ Variable-Stiffness Nasotracheal Intubation Robot with Passive Buffering: A Modul
 2025 IEEE International Conference on Robotics and Automation (ICRA), 2025
 
 **Ruoyi Hao**, Jiewen Lai, Wenqi Zhong, Dihong Xie, Yu Tian, Tao Zhang, Zhang Yang, Catherine P. L. Chan, Jason Y. K. Chan, and Hongliang Ren
+
+[**Video**](https://youtu.be/pO9tTmhlqrs) [**Papers**](docs/ICRA2025_NIR_20250223.pdf)
 
 </div>
 </div>
