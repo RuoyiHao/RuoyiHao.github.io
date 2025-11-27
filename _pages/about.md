@@ -24,6 +24,7 @@ My research interests include medical robot systems, robot perception, and auton
 Here is my [detailed CV](images/CV_Ruoyi Hao1.pdf).
 
 # 🔥 News
+- *11/2025*: A paper accepted by Scientific Data.
 - *10/2025*: A paper accepted by TIE.
 - *06/2025*: A paper accepted by IROS 2025.
 - *01/2025*: Two papers accepted by ICRA 2025.
@@ -36,6 +37,20 @@ Here is my [detailed CV](images/CV_Ruoyi Hao1.pdf).
 - *11/2021*: Our project “Skull-mounted robot for needle intervention” won the Silver Award and Best Presentation Award in EMedIC Global 2021.
 
 # 📝 Selected Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Data</div><img src='images/Scientific Data.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Upper Airway Anatomical Landmark Dataset for Automated Bronchoscopy and Intubation
+
+Scientific Data, 2026
+
+**Ruoyi Hao†**, Yang Zhang†, Zhiqing Tang, Yang Zhou, Lalithkumar Seenivasan, Catherine Po Ling Chan, Jason Ying Kuen Chan, Shuhui Xu, Neville Wei Yang Teo, Kaijun Tay, Vanessa Yee Jueen Tan, Jiun Fong Thong, Kimberley Liqin Kiong, Shaun Loh, Song Tar Toh, Chwee Ming Lim, and Hongliang Ren
+
+[**Open-sourced dataset on Figshare**](https://doi.org/10.6084/m9.figshare.26342779.v4) 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/iros2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
