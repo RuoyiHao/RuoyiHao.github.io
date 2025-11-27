@@ -123,9 +123,11 @@ Huxin Gao, Zedong Zhang, Changsheng Li, Xiao Xiao, Liang Qiu, Xiaoxiao Yang, **R
 # 💻 Selected Project
 *2021 - now*: Nasotracheal Intubation Robot (Hong Kong RGC CRF)
 
+
 <img src='images/iros25pre.jpg' alt="sym" width="40%">  <img src='images/iros25poster.jpg' alt="sym" width="20%">  
 
 Our work was presented at IROS 2025.
+
 
 <img src='images/ICRA2.jpg' alt="sym" width="34%">  <img src='images/ICRA1.jpg' alt="sym" width="38%">  <img src='images/icra2025poster.jpg' alt="sym" width="19%">
 
