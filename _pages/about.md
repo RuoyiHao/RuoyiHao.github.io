@@ -31,6 +31,7 @@ Here is my [detailed CV](images/CV_Ruoyi Hao1.pdf).
 - *12/2023*: Our Project was presented at Collaborative Research Fund cum Research Impact Fund Symposium 2023.
 - *09/2023*: A paper accepted by IEEE TIE.
 - *07/2023*: Pass PhD thesis proposal defense.
+- *07/2023*: A 3-minute special interview on our project was broadcast on TVB Jade on July 12, 2023.
 - *05/2023*: Our Project won the Silver Award in The International Exhibition of Inventions Geneva 2023.
 - *05/2023*: Awarded the Solomon Systech Scholarship.
 - *06/2022*: A paper accepted by IROS 2022.
