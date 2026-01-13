@@ -48,7 +48,21 @@ Scientific Data, 2026
 
 **Ruoyi Hao†**, Yang Zhang†, Zhiqing Tang, Yang Zhou, Lalithkumar Seenivasan, Catherine Po Ling Chan, Jason Ying Kuen Chan, Shuhui Xu, Neville Wei Yang Teo, Kaijun Tay, Vanessa Yee Jueen Tan, Jiun Fong Thong, Kimberley Liqin Kiong, Shaun Loh, Song Tar Toh, Chwee Ming Lim, and Hongliang Ren
 
-[**Open-sourced dataset on Figshare**](https://doi.org/10.6084/m9.figshare.26342779.v4) 
+[**Open-sourced dataset on Figshare**](https://doi.org/10.6084/m9.figshare.26342779.v4) [**Paper**](images/uaal.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/tie2.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Asymmetric Cosine Jerk Trajectory Optimization for Robust Vibration Suppression](https://ieeexplore.ieee.org/document/11278740)
+
+IEEE Transactions on Industrial Electronics (TIE), 2026
+
+Yi Fang, **Ruoyi Hao**, Hao Fan, Yu Tian, and Hongliang Ren
+
+[**Paper**](images/tie2.pdf)
 
 </div>
 </div>
