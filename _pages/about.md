@@ -42,7 +42,7 @@ Here is my [detailed CV](images/CV_Ruoyi Hao1.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci. Data</div><img src='images/Scientific Data.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Upper Airway Anatomical Landmark Dataset for Automated Bronchoscopy and Intubation
+[Upper Airway Anatomical Landmark Dataset for Automated Bronchoscopy and Intubation](https://www.nature.com/articles/s41597-025-06169-0)
 
 Scientific Data, 2026
 
@@ -56,7 +56,7 @@ Scientific Data, 2026
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS2025</div><img src='images/iros2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Learning to Perform Low-Contact Autonomous Nasotracheal Tube Intubation by Recurrent Action-Confidence Chunking with Transformer
+[Learning to Perform Low-Contact Autonomous Nasotracheal Tube Intubation by Recurrent Action-Confidence Chunking with Transformer](https://ieeexplore.ieee.org/abstract/document/11247783?casa_token=bF_SOObUHvEAAAAA:lS2JQYWwnV_1AoZZizO_Pmgsrm3yK7uOO9m7JOZxttQSaXaWQzXPOJk877pu90BtsyxpbPdjaw)
 
 2025 IEEE International Conference on Intelligent Robots and Systems (IROS), 2025
 
@@ -70,7 +70,7 @@ Yu Tian†, **Ruoyi Hao†**, Yiming Huang, Dihong Xie, Catherine Po Ling Chan, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA2025</div><img src='images/ICRA2025.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Variable-Stiffness Nasotracheal Intubation Robot with Passive Buffering: A Modular Platform in Mannequin Studies
+[Variable-Stiffness Nasotracheal Intubation Robot with Passive Buffering: A Modular Platform in Mannequin Studies](https://ieeexplore.ieee.org/abstract/document/11128279?casa_token=e0mIeATwFiEAAAAA:3wVdNavQAnwpfVqFbW6DlyobtwAX3FYHnuFy1Xu_hsCwKybUcjz19lr-pivxHQENOsXugcBKmw)
 
 2025 IEEE International Conference on Robotics and Automation (ICRA), 2025
 
