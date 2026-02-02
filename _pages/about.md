@@ -21,7 +21,7 @@ I received my B.E. degree in [Process Equipment and Control Engineering](https:/
 
 My research interests include medical robot systems, robot perception, and autonomous control.
 
-Here is my [detailed CV](images/CV_Ruoyi Hao1.pdf).
+Here is my [detailed CV](images/CV_Ruoyi Hao2.pdf).
 
 # 🔥 News
 - *11/2025*: A paper accepted by Scientific Data.
